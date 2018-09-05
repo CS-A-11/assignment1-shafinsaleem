@@ -8,6 +8,6 @@
 
 - Project Site from pages.github.com
 
-	cs-a-11.gitmhub.io/assignment1-shafinsaleem
+	cs-a-11.github.io/assignment1-shafinsaleem
 	
 	CSS template selected from Github samples
